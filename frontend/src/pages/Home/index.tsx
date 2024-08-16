@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import { GetCurrentUser } from "../../api/users";
 
 function Home() {
